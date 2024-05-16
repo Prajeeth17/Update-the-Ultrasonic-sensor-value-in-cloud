@@ -1,7 +1,7 @@
-# Exp No.5: Update the Ultrasonic sensor value in Things Mate
-
 ## Name: Prajeeth K T
 ## Register No: 212222110034
+
+# Exp No:6 Update the Ultrasonic sensor value in Things Mate
 
 # AIM:
 To upload the Ultrasonic sensor value in the Things mate using Arduino controller.
@@ -211,10 +211,9 @@ long microsecondsToCentimeters(long microseconds) {
 ![330827660-0ee3e916-2139-4f17-887f-05cfa61be37b](https://github.com/LavanyaMuraleedharan/Update-the-Ultrasonic-sensor-value-in-cloud/assets/120103862/420774a2-36a7-4b7b-b0f2-dc669f0cde91)
 
 # OUTPUT:
-![330827900-09731ab1-be49-4048-a36f-88e21134034e](https://github.com/LavanyaMuraleedharan/Update-the-Ultrasonic-sensor-value-in-cloud/assets/120103862/2dbabf1c-88cb-4b9f-87c2-be03f44bcf24)
-
 ![330828010-5c208002-f3be-4e2b-8cfa-19f5c68bd116](https://github.com/LavanyaMuraleedharan/Update-the-Ultrasonic-sensor-value-in-cloud/assets/120103862/f462ad4b-90a8-4a65-aed9-36248c258a47)
 
+![330827900-09731ab1-be49-4048-a36f-88e21134034e](https://github.com/LavanyaMuraleedharan/Update-the-Ultrasonic-sensor-value-in-cloud/assets/120103862/2dbabf1c-88cb-4b9f-87c2-be03f44bcf24)
 # RESULT:
 
 Thus the Ultrasonic sensor value is uploaded in the Things mate using Arduino controller.
